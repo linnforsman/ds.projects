@@ -4,9 +4,14 @@ This repository contains a portfolio of data science projects completed by Linn 
 For R projects, visit here.
 
 ## Content
-### Data Analysis and Visualization
-- #### Exploring eBay Car Sales Data
-- #### Visualizing Earnings Based On College Majors
+- ### Data Analysis and Visualisation
+	- __Python__
+		- Visualizing Earnings Based On College Majors
+		- Visualizing The Gender Gap In College Degrees
+		- C
+		- D
+		- E
+		
 ### Data Wrangling, munging, cleaning
 ### Clean and Analyze Employee Exit Surveys
 ### Machine Learning
