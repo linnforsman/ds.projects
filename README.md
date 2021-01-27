@@ -12,6 +12,7 @@ For R projects, visit here.
 		- D
 		- E
 		
-### Data Wrangling, munging, cleaning
-### Clean and Analyze Employee Exit Surveys
+- ### Data Wrangling, munging, cleaning
+	- __Python__
+		- Clean and Analyze Employee Exit Surveys
 ### Machine Learning
