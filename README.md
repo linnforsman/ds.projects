@@ -1,7 +1,6 @@
 # Data Science Portfolio
 This repository contains a portfolio of data science projects completed by Linn Forsman for academic, self-learning, and hobby purposes. They are presented in the form of iPython Notebooks. 
 
-For R projects, visit here.
 
 ## Content
 - ### Data Analysis and Visualisation
