@@ -4,4 +4,4 @@ This repository contains a portfolio of data science projects completed by Linn 
 
 
 - ### Machine Learning
-    - [Predicting Car Prices](https://github.com/linnforsman/dq-projects/tree/main/Predicting%20Car%20Prices): This project is about predicting car prices using its attributes with k-nearest neighbors algorithm.
+    - [Predicting Car Prices](https://github.com/linnforsman/dq-projects/tree/main/Predicting%20Car%20Prices): This project is about predicting car prices using its attributes with [k-nearest neighbors algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm).
