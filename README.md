@@ -9,4 +9,4 @@ This repository contains a portfolio of data science projects completed by Linn 
 
 
 - ### Probability and Statistics
-    - [Creating a Mobile App For Lottery Addiction](https://github.com/linnforsman/dq-projects/blob/main/Mobile%20App%20for%20Lottery%20Addiction/Mobile%20App%20for%20Lottery%20Addiction.ipynb)
+    - [Contributing to Mobile App For Lottery Addiction](https://github.com/linnforsman/dq-projects/blob/main/Mobile%20App%20for%20Lottery%20Addiction/Mobile%20App%20for%20Lottery%20Addiction.ipynb)
