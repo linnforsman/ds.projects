@@ -9,4 +9,4 @@ This repository contains a portfolio of data science projects completed by Linn 
 
 
 - ### Probability and Statistics
-    - [Investigation into reducing lottery addiction by understanding probabilities](https://github.com/linnforsman/ds-projects/tree/main/Contributing%20to%20Mobile%20App%20for%20Lottery%20Addiction)
+    - [Investigation into reducing lottery addiction by understanding probabilities](https://github.com/linnforsman/ds-projects/tree/main/Investigation%20into%20reducing%20lottery%20addiction%20by%20understanding%20probabilities)
